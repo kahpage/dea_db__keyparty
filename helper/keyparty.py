@@ -190,6 +190,15 @@ if __name__ == "__main__":
                     )
                 ],
             ),
+            Medium(
+                "02_bnrkp.png",
+                [
+                    Source(
+                        "https://web.archive.org/web/20110917022631/http://mattari-an.net/littlebusters/index.html",
+                        (RT.Reliable, OT.Official),
+                    )
+                ],
+            ),
             # Medium("", [Source("", (RT.Reliable, OT.Official))]),
             # Medium("", [Source("", (RT.Reliable, OT.Official))]),
         ]
