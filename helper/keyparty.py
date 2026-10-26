@@ -329,6 +329,15 @@ if __name__ == "__main__":
 
         media_ = [
             Medium(
+                "04_paper.jpg",
+                [
+                    Source(
+                        "https://web.archive.org/web/20240416105205/http://mattari-an.net/littlebusters/index.html",
+                        (RT.Reliable, OT.Official),
+                    )
+                ],
+            ),
+            Medium(
                 "04_33546618_p0.png",
                 [
                     Source(
